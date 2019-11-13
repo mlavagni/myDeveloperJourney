@@ -1,0 +1,19 @@
+{
+  "name": "mydeveloperjourney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlavagni/myDeveloperJourney.git"
+  },
+  "author": "Mark Lavagni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlavagni/myDeveloperJourney/issues"
+  },
+  "homepage": "https://github.com/mlavagni/myDeveloperJourney#readme"
+}
